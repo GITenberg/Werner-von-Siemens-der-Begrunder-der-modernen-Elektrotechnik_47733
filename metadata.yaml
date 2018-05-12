@@ -1,10 +1,16 @@
 _repo: Werner-von-Siemens-der-Begrunder-der-modernen-Elektrotechnik_47733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fürst, Artur
     gutenberg_agent_id: '44447'
     url: http://www.gutenberg.org/2009/agents/44447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47733#Werner-von-Siemens-der-Begrunder-der-modernen-Elektrotechnik
 gutenberg_issued: '2014-12-21'
 gutenberg_type: Text
 identifiers:
